@@ -7,7 +7,7 @@ st.title("Home")
 
 col1, col2 = st.columns(2)
 
-with col1:
+with col1:f i
     st.image("images/photo.png")
 
 with col2:
