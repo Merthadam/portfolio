@@ -14,9 +14,9 @@ def project_card(title, image, description, url):
             transform: scale(1.05);
         }}
         </style>
-        <div class="project-card style="border-radius: 15px; padding: 15px; background-color: white; box-shadow: 2px 2px 10px #aaa; margin-bottom: 20px ">
+        <div class="project-card" style="border-radius: 15px; padding: 15px; background-color: white; box-shadow: 2px 2px 10px #aaa; margin-bottom: 20px ">
             <h4 style="color: #333;">{title}</h4>
-            <img src="https://github.com/Merthadam/portfolio/tree/main/static/images{image}" style="width:100%; border-radius:10px;">
+            <img src="https://raw.githubusercontent.com/Merthadam/portfolio/main/static/images/{image}" style="width:100%; border-radius:10px;">
             <p>{description}</p>
             <a href="{url}" target="_blank" style="text-decoration: none;">
                 <button style="background-color: #007BFF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer;">
