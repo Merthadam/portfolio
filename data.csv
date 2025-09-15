@@ -1,7 +1,7 @@
 title;description;url;image
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
+Portfolio Website;A website built using python and a bit of html and css to improve the look of the site;;2.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/Merthadam/Weather_station_api;6.png
+Laravell Blade Zoo manager site;A laravell breeze project showcasing my knowledge in laravell.;https://github.com/Merthadam/Zoo_manager_laravell_project;11.png
 Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
+Cinema app; Cinema reservations app displaying my knowledge of connecting front end to backend using restapi;https://github.com/Merthadam/weather_api_app;17.png
+Safari Game;Safari simulator made by myself and two other students in university birds eye view game simulating the management of a safari;https://github.com/Merthadam/Safari-Game;19.png
