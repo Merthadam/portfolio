@@ -93,7 +93,6 @@ with header_right:
         <div>
           <a class="pill" href="https://github.com/Merthadam" target="_blank">GitHub</a>
           <a class="pill" href="www.linkedin.com/in/ádám-mérth-93a582377" target="_blank">LinkedIn</a>
-          <a class="pill" href="#" target="_blank">Resume</a>
         </div>
         """,
         unsafe_allow_html=True
@@ -124,3 +123,4 @@ with col3:
 with col4:
     for _, row in df[len(df) // 2 :].iterrows():
         project_card(row["title"], row["image"], row["description"], row["url"])
+        
