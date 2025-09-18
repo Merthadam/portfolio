@@ -92,7 +92,7 @@ with header_right:
         """
         <div>
           <a class="pill" href="https://github.com/Merthadam" target="_blank">GitHub</a>
-          <a class="pill" href="www.linkedin.com/in/ádám-mérth-93a582377" target="_blank">LinkedIn</a>
+          <a class="pill" href="https://www.linkedin.com/in/%C3%A1d%C3%A1m-m%C3%A9rth-93a582377/" target="_blank">LinkedIn</a>
         </div>
         """,
         unsafe_allow_html=True
