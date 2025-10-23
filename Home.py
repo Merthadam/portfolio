@@ -82,11 +82,11 @@ with header_right:
     st.markdown("### Hi, I’m Adam")
     st.markdown(
         "I’m a university student at **ELTE** (Budapest). This page showcases "
-        "a selection of my projects across **full-stack web** and **data apps**."
+        "a selection of my projects across **full-stack web** and **data apps**, and also showcases online courses I completed."
     )
     st.markdown(
         "- Focus: showcasing my skillset through a portfolio page that shows some of my work.\n"
-        "- Tools I used: **Laravel**, **React**, **Vite**, **Tailwind**, **Streamlit**, **Pandas**, **Java** **lib_gdx** and many other tools.\n"
+        "- Tools I used: **Laravel**, **React**, **Vite**, **Tailwind**, **Streamlit**, **Pandas**, **Java** **lib_gdx** and most recently: **sklearn** and **matplotlib**.\n"
     )
     st.markdown(
         """
